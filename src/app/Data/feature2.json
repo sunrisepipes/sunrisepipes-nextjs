@@ -1,20 +1,20 @@
 [
   {
     "img": "/assets/images/icon/04.svg",
-    "title": "Sales automation",
-    "desc": "This title is versatile and can adapted to fit the specific tone and branding of your website quality.",
+    "title": "Decades of Expertise",
+    "desc": "With over 30 years in the plastic manufacturing industry, we bring unparalleled knowledge and trusted solutions to meet your needs.",
     "addclass": "feature-provide-box-items style-2"
   },
   {
     "img": "/assets/images/icon/05.svg",
-    "title": "Contact management",
-    "desc": "This title is versatile and can adapted to fit the specific tone and branding of your website quality.",
+    "title": "Advanced Technology",
+    "desc": "We utilize cutting-edge manufacturing techniques to deliver superior products that are durable and efficient.",
     "addclass": "feature-provide-box-items"
   },
   {
     "img": "/assets/images/icon/06.svg",
-    "title": "Task Management",
-    "desc": "This title is versatile and can adapted to fit the specific tone and branding of your website quality.",
+    "title": "Unmatched Quality",
+    "desc": "Our commitment to excellence ensures every product meets the highest standards, guaranteeing reliability and customer satisfaction.",
     "addclass": "feature-provide-box-items style-2"
   } 
 ]

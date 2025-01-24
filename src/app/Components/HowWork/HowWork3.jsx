@@ -17,7 +17,7 @@ const HowWork3 = () => {
                      <div className="col-lg-8">
                          <div className="how-work-content">
                              <p className="text wow fadeInUp">
-                                 There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which do not look even slightly
+                             Efficient, streamlined, and customer-focused—our process ensures every product meets your expectations with precision and excellence.
                              </p>
                              <div className="row g-4">
                              {data.map((item, index)=>(

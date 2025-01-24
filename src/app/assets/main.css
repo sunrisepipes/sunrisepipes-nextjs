@@ -5807,7 +5807,7 @@ input.main-search-input::placeholder {
 }
 .intro-wrapper.style1 .intro-content {
   position: relative;
-  padding: 223px 0 180px;
+  padding: 100px 0 180px;
   z-index: 5;
   max-width: 720px;
 }
@@ -6234,7 +6234,7 @@ input.main-search-input::placeholder {
 
 /* 17.Brand */
 .brandSliderOne {
-  padding: 30px 0 110px;
+  padding: 30px 0 30px;
   border-bottom: 1px solid var(--border);
 }
 .brandSliderOne .brand-logo {

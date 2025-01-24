@@ -66,77 +66,15 @@ function Nav({ setMobileToggle }) {
         className: "cs_nav_list fw-medium",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                className: "menu-item-has-children",
-                children: [
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                        href: "/",
-                        children: "Home"
-                    }, void 0, false, {
-                        fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                        lineNumber: 8,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$Components$2f$Header$2f$DropDown$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
-                            children: [
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                                        href: "/",
-                                        onClick: ()=>setMobileToggle(false),
-                                        children: "Home Version 1"
-                                    }, void 0, false, {
-                                        fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                                        lineNumber: 12,
-                                        columnNumber: 15
-                                    }, this)
-                                }, void 0, false, {
-                                    fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                                    lineNumber: 11,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                                        href: "/home2",
-                                        onClick: ()=>setMobileToggle(false),
-                                        children: "Home Version 2"
-                                    }, void 0, false, {
-                                        fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                                        lineNumber: 17,
-                                        columnNumber: 15
-                                    }, this)
-                                }, void 0, false, {
-                                    fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                                    lineNumber: 16,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                                        href: "/home3",
-                                        onClick: ()=>setMobileToggle(false),
-                                        children: "Home Version 3"
-                                    }, void 0, false, {
-                                        fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                                        lineNumber: 22,
-                                        columnNumber: 15
-                                    }, this)
-                                }, void 0, false, {
-                                    fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                                    lineNumber: 21,
-                                    columnNumber: 13
-                                }, this)
-                            ]
-                        }, void 0, true, {
-                            fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                            lineNumber: 10,
-                            columnNumber: 11
-                        }, this)
-                    }, void 0, false, {
-                        fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                        lineNumber: 9,
-                        columnNumber: 9
-                    }, this)
-                ]
-            }, void 0, true, {
+                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                    href: "/",
+                    children: "Home"
+                }, void 0, false, {
+                    fileName: "[project]/src/app/Components/Header/Nav.jsx",
+                    lineNumber: 8,
+                    columnNumber: 9
+                }, this)
+            }, void 0, false, {
                 fileName: "[project]/src/app/Components/Header/Nav.jsx",
                 lineNumber: 7,
                 columnNumber: 7
@@ -145,8 +83,8 @@ function Nav({ setMobileToggle }) {
                 className: "menu-item-has-children",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                        href: "#",
-                        children: "Pages"
+                        href: "/about",
+                        children: "About us"
                     }, void 0, false, {
                         fileName: "[project]/src/app/Components/Header/Nav.jsx",
                         lineNumber: 30,
@@ -157,9 +95,9 @@ function Nav({ setMobileToggle }) {
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                                        href: "/about",
+                                        href: "/team",
                                         onClick: ()=>setMobileToggle(false),
-                                        children: "About Us"
+                                        children: "Our Team"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/Components/Header/Nav.jsx",
                                         lineNumber: 34,
@@ -172,24 +110,9 @@ function Nav({ setMobileToggle }) {
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                                        href: "/team",
+                                        href: "/faq",
                                         onClick: ()=>setMobileToggle(false),
-                                        children: "Our Team"
-                                    }, void 0, false, {
-                                        fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                                        lineNumber: 39,
-                                        columnNumber: 15
-                                    }, this)
-                                }, void 0, false, {
-                                    fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                                    lineNumber: 38,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                                        href: "/team/team-details",
-                                        onClick: ()=>setMobileToggle(false),
-                                        children: "Team Details"
+                                        children: "Faq"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/Components/Header/Nav.jsx",
                                         lineNumber: 44,
@@ -198,51 +121,6 @@ function Nav({ setMobileToggle }) {
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/Header/Nav.jsx",
                                     lineNumber: 43,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                                        href: "/pricing",
-                                        onClick: ()=>setMobileToggle(false),
-                                        children: "Pricing"
-                                    }, void 0, false, {
-                                        fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                                        lineNumber: 49,
-                                        columnNumber: 15
-                                    }, this)
-                                }, void 0, false, {
-                                    fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                                    lineNumber: 48,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                                        href: "/faq",
-                                        onClick: ()=>setMobileToggle(false),
-                                        children: "Faq"
-                                    }, void 0, false, {
-                                        fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                                        lineNumber: 54,
-                                        columnNumber: 15
-                                    }, this)
-                                }, void 0, false, {
-                                    fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                                    lineNumber: 53,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                                        href: "/contact",
-                                        onClick: ()=>setMobileToggle(false),
-                                        children: "Contact"
-                                    }, void 0, false, {
-                                        fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                                        lineNumber: 59,
-                                        columnNumber: 15
-                                    }, this)
-                                }, void 0, false, {
-                                    fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                                    lineNumber: 58,
                                     columnNumber: 13
                                 }, this)
                             ]
@@ -271,7 +149,7 @@ function Nav({ setMobileToggle }) {
                         children: "Project"
                     }, void 0, false, {
                         fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                        lineNumber: 68,
+                        lineNumber: 53,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$Components$2f$Header$2f$DropDown$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
@@ -284,12 +162,12 @@ function Nav({ setMobileToggle }) {
                                         children: "Project 1"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                                        lineNumber: 74,
+                                        lineNumber: 59,
                                         columnNumber: 15
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                                    lineNumber: 73,
+                                    lineNumber: 58,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -299,12 +177,12 @@ function Nav({ setMobileToggle }) {
                                         children: "Project 2"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                                        lineNumber: 79,
+                                        lineNumber: 64,
                                         columnNumber: 15
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                                    lineNumber: 78,
+                                    lineNumber: 63,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -314,29 +192,29 @@ function Nav({ setMobileToggle }) {
                                         children: "Project Details"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                                        lineNumber: 84,
+                                        lineNumber: 69,
                                         columnNumber: 15
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                                    lineNumber: 83,
+                                    lineNumber: 68,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                            lineNumber: 72,
+                            lineNumber: 57,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                        lineNumber: 71,
+                        lineNumber: 56,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                lineNumber: 67,
+                lineNumber: 52,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -348,7 +226,7 @@ function Nav({ setMobileToggle }) {
                         children: "Services"
                     }, void 0, false, {
                         fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                        lineNumber: 93,
+                        lineNumber: 78,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$Components$2f$Header$2f$DropDown$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
@@ -361,12 +239,12 @@ function Nav({ setMobileToggle }) {
                                         children: "Services"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                                        lineNumber: 99,
+                                        lineNumber: 84,
                                         columnNumber: 15
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                                    lineNumber: 98,
+                                    lineNumber: 83,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -376,29 +254,29 @@ function Nav({ setMobileToggle }) {
                                         children: "Service Details"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                                        lineNumber: 104,
+                                        lineNumber: 89,
                                         columnNumber: 15
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                                    lineNumber: 103,
+                                    lineNumber: 88,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                            lineNumber: 97,
+                            lineNumber: 82,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                        lineNumber: 96,
+                        lineNumber: 81,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                lineNumber: 92,
+                lineNumber: 77,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -410,7 +288,7 @@ function Nav({ setMobileToggle }) {
                         children: "Blog"
                     }, void 0, false, {
                         fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                        lineNumber: 113,
+                        lineNumber: 98,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$Components$2f$Header$2f$DropDown$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
@@ -423,12 +301,12 @@ function Nav({ setMobileToggle }) {
                                         children: "Blog"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                                        lineNumber: 119,
+                                        lineNumber: 104,
                                         columnNumber: 15
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                                    lineNumber: 118,
+                                    lineNumber: 103,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -438,12 +316,12 @@ function Nav({ setMobileToggle }) {
                                         children: "Blog With Sidebar"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                                        lineNumber: 124,
+                                        lineNumber: 109,
                                         columnNumber: 15
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                                    lineNumber: 123,
+                                    lineNumber: 108,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -453,12 +331,12 @@ function Nav({ setMobileToggle }) {
                                         children: "Blog Left Sidebar"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                                        lineNumber: 129,
+                                        lineNumber: 114,
                                         columnNumber: 15
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                                    lineNumber: 128,
+                                    lineNumber: 113,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -468,29 +346,29 @@ function Nav({ setMobileToggle }) {
                                         children: "Blog Details"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                                        lineNumber: 134,
+                                        lineNumber: 119,
                                         columnNumber: 15
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                                    lineNumber: 133,
+                                    lineNumber: 118,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                            lineNumber: 117,
+                            lineNumber: 102,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                        lineNumber: 116,
+                        lineNumber: 101,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                lineNumber: 112,
+                lineNumber: 97,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -500,12 +378,12 @@ function Nav({ setMobileToggle }) {
                     children: "Contact"
                 }, void 0, false, {
                     fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                    lineNumber: 145,
+                    lineNumber: 130,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/app/Components/Header/Nav.jsx",
-                lineNumber: 144,
+                lineNumber: 129,
                 columnNumber: 7
             }, this)
         ]
@@ -619,30 +497,30 @@ function Header3({ variant }) {
                                                 onClick: ()=>setMobileToggle(!mobileToggle),
                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {}, void 0, false, {
                                                     fileName: "[project]/src/app/Components/Header/Header3.jsx",
-                                                    lineNumber: 59,
+                                                    lineNumber: 60,
                                                     columnNumber: 21
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/Header/Header3.jsx",
-                                                lineNumber: 51,
+                                                lineNumber: 52,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$Components$2f$Header$2f$Nav$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                                                 setMobileToggle: setMobileToggle
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/Header/Header3.jsx",
-                                                lineNumber: 61,
+                                                lineNumber: 62,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/Components/Header/Header3.jsx",
-                                        lineNumber: 50,
+                                        lineNumber: 51,
                                         columnNumber: 17
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/Header/Header3.jsx",
-                                    lineNumber: 49,
+                                    lineNumber: 50,
                                     columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -657,12 +535,12 @@ function Header3({ variant }) {
                                                     className: "bi bi-search"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/Components/Header/Header3.jsx",
-                                                    lineNumber: 67,
+                                                    lineNumber: 68,
                                                     columnNumber: 104
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/Header/Header3.jsx",
-                                                lineNumber: 67,
+                                                lineNumber: 68,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -677,34 +555,34 @@ function Header3({ variant }) {
                                                                 className: "bi bi-arrow-right"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/Components/Header/Header3.jsx",
-                                                                lineNumber: 72,
+                                                                lineNumber: 73,
                                                                 columnNumber: 29
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/Components/Header/Header3.jsx",
-                                                        lineNumber: 70,
+                                                        lineNumber: 71,
                                                         columnNumber: 25
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/Components/Header/Header3.jsx",
-                                                    lineNumber: 69,
+                                                    lineNumber: 70,
                                                     columnNumber: 21
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/Header/Header3.jsx",
-                                                lineNumber: 68,
+                                                lineNumber: 69,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/Components/Header/Header3.jsx",
-                                        lineNumber: 65,
+                                        lineNumber: 66,
                                         columnNumber: 15
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/Header/Header3.jsx",
-                                    lineNumber: 64,
+                                    lineNumber: 65,
                                     columnNumber: 13
                                 }, this)
                             ]
@@ -732,7 +610,7 @@ function Header3({ variant }) {
                 className: "cs_site_header_spacing_140"
             }, void 0, false, {
                 fileName: "[project]/src/app/Components/Header/Header3.jsx",
-                lineNumber: 83,
+                lineNumber: 84,
                 columnNumber: 5
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -746,7 +624,7 @@ function Header3({ variant }) {
                             className: "bi bi-x-lg search-close"
                         }, void 0, false, {
                             fileName: "[project]/src/app/Components/Header/Header3.jsx",
-                            lineNumber: 86,
+                            lineNumber: 87,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -761,33 +639,33 @@ function Header3({ variant }) {
                                         placeholder: "Search..."
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/Components/Header/Header3.jsx",
-                                        lineNumber: 90,
+                                        lineNumber: 91,
                                         columnNumber: 23
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/Header/Header3.jsx",
-                                    lineNumber: 89,
+                                    lineNumber: 90,
                                     columnNumber: 19
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/src/app/Components/Header/Header3.jsx",
-                                lineNumber: 88,
+                                lineNumber: 89,
                                 columnNumber: 15
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/src/app/Components/Header/Header3.jsx",
-                            lineNumber: 87,
+                            lineNumber: 88,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/app/Components/Header/Header3.jsx",
-                    lineNumber: 85,
+                    lineNumber: 86,
                     columnNumber: 7
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/app/Components/Header/Header3.jsx",
-                lineNumber: 84,
+                lineNumber: 85,
                 columnNumber: 7
             }, this)
         ]

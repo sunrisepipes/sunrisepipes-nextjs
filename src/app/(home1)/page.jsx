@@ -1,84 +1,64 @@
-import React from 'react';
-import HeroBanner1 from '../Components/HeroBanner/HeroBanner1';
-import Brand1 from '../Components/Brand/Brand1';
-import About1 from '../Components/About/About1';
-import HowWork from '../Components/HowWork/HowWork';
-import Choose1 from '../Components/Choose/Choose1';
-import Feature1 from '../Components/Feature/Feature1';
-import Counter1 from '../Components/Counter/Counter1';
-import Faq1 from '../Components/Faq/Faq1';
-import Testimonial from '../Components/Testimonial/Testimonial';
-import Feature2 from '../Components/Feature/Feature2';
-import Pricing1 from '../Components/Pricing/Pricing1';
-import Cta1 from '../Components/Cta/Cta1';
-import Blog1 from '../Components/Blog/Blog1';
+import React from "react";
+import HeroBanner3 from "../Components/HeroBanner/HeroBanner3";
+import Feature4 from "../Components/Feature/Feature4";
+import Feature5 from "../Components/Feature/Feature5";
+import Feature6 from "../Components/Feature/Feature6";
+import HowWork3 from "../Components/HowWork/HowWork3";
+import Pricing3 from "../Components/Pricing/Pricing3";
+import Counter1 from "../Components/Counter/Counter1";
+import About3 from "../Components/About/About3";
+import Brand3 from "../Components/Brand/Brand1";
+import Testimonial from "../Components/Testimonial/Testimonial";
+import Blog1 from "../Components/Blog/Blog1";
 
 const page = () => {
-  return (
-    <div>
-            <HeroBanner1
-                subtitle="<span>News!</span>Find Your Solution"
-                title="We Develop Websites, Applications, and Brands."
-                content="There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum,"
-                btnname="Get Started Now"
-                btnurl="/contact"
-                btntwo="Learn More"
-                btn2url="/about"
-                cusimg="/assets/images/intro/introProfileThumb1_1.png"
-                cusnumber="2,291"
-                cuscontent="Happy Customers"
-                rating="4.8/5"
-                ratingcon="Rating"
-                img="/assets/images/intro/introThumb1_1.png"
-            ></HeroBanner1>
-            <Brand1></Brand1>   
-            <About1
-                img1="/assets/images/about/aboutThumb1_1.png"
-                img2="/assets/images/about/aboutThumb1_2.png"
-                subtitle="About Our App"
-                title="Simple Reports & Analytics Backdown As it"
-                content="There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use"
-                FeatureList={[
-                    "With our Technological and Marketing Solutions.",
-                    "We are trusted all over the world.",
-                    "Start Your 14 Days Free Trials Today!",
-                ]}                
-                btnname="Discover More"
-                btnurl="/about"
-            ></About1>  
-            <HowWork></HowWork> 
-            <Choose1
-                subtitle="App Advantage"
-                title="Get Benefit By Using Trending Apps"
-                content="There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly"
-                FeatureList={[
-                    "Friendly Design",
-                    "SEO Optimized",
-                ]} 
-                FeatureList2={[
-                    "Cloud Storage",
-                    "Strong Security",
-                ]}                 
-                btnname="Download App"
-                btnurl="/about"
-            ></Choose1>
-            <Feature1></Feature1> 
-            <Counter1></Counter1>
-            <Faq1></Faq1> 
-            <Testimonial></Testimonial>  
-            <Feature2></Feature2>
-            <Pricing1></Pricing1> 
-            <Cta1
-                subtitle="Our App"
-                title="Download our app and start your free trail to get started today!"
-                content="There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised"
-                btnurl1="https://play.google.com/store"
-                btnurl2="https://www.apple.com/store"
-                img="/assets/images/cta/ctaThumb1_1.png"
-            ></Cta1>     
-            <Blog1></Blog1>                         
-    </div>
-  );
+	return (
+		<div>
+			<HeroBanner3
+				bgimg="/assets/images/hero/hero-bg.jpg"
+				subtitle="Sunries Pipes"
+				title="Revolutionizing Piping Solutions for a <span>Sustainable Future<span/>"
+				content="Explore our high-quality HDPE Pipes, Sprinkler Systems, and Accessories, designed to enhance efficiency, durability, and performance for agriculture, infrastructure, and beyond."
+				btnname="Explore Our Products"
+				btnurl="/project"
+				btnname2="Learn More"
+				btnurl2="/about"
+				img1="/assets/images/hero/01.png"
+				img2="/assets/images/hero/mobile.png"
+			></HeroBanner3>
+			<Brand3></Brand3>
+			<Feature4
+				img="/assets/images/about/01.png"
+				subtitle="Our Features"
+				title="We Deliver Excellence with Every Pipe"
+				content="With decades of experience and a passion for innovation, we craft durable, reliable, and sustainable piping solutions for agriculture, infrastructure, and beyond."
+				FeatureList={[
+					"<b>Unmatched Expertise :</b> <span>  Backed by over 30 years of experience in plastic manufacturing</span>",
+					"<b>Cutting-Edge Technology :</b> <span> Advanced manufacturing processes for superior performance.</span>",
+					"<b>Certified Quality :</b> <span> Products that adhere to international standards like IS: 4427 and IS: 12786.</span>",
+					"<b>Customer-Centric Solutions :</b> <span>  Tailored to meet the diverse needs of our clients.</span>",
+				]}
+				btnname="Learn More"
+				btnurl="/contact"
+			></Feature4>
+			{/* <Feature5></Feature5> */}
+			<Feature6></Feature6>
+			<HowWork3></HowWork3>
+			<Counter1 ></Counter1>
+			<About3
+				img1="/assets/images/what-do.png"
+				subtitle="What We Do"
+				title="We offer pipes for all sectors."
+				content="From agriculture to industrial needs, our pipes are designed to cater to diverse sectors with unmatched quality and performance."
+				boxtitle1="Expert Solutions for Agriculture"
+				boxcontent1="Our pipes and irrigation systems ensure efficient water management for sustainable farming practices."
+				boxtitle2="Reliable Infrastructure Applications"
+				boxcontent2="Durable and dependable, our pipes support infrastructure projects across various industries."
+			></About3>
+			{/* <Brand3></Brand3> */}
+			<Testimonial></Testimonial>
+		</div>
+	);
 };
 
 export default page;

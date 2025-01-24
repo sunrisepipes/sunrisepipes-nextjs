@@ -3395,9 +3395,9 @@ const page = ()=>{
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$Components$2f$HeroBanner$2f$HeroBanner1$2e$jsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
                 subtitle: "<span>News!</span>Find Your Solution",
-                title: "We Develop Websites, Applications, and Brands.",
-                content: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum,",
-                btnname: "Get Started Now",
+                title: "Revolutionizing Piping Solutions for a Sustainable Future",
+                content: "Explore our high-quality HDPE Pipes, Sprinkler Systems, and Accessories, designed to enhance efficiency, durability, and performance for agriculture, infrastructure, and beyond.",
+                btnname: "Explore Our Products",
                 btnurl: "/contact",
                 btntwo: "Learn More",
                 btn2url: "/about",
