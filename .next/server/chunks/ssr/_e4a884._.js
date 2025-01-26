@@ -1891,7 +1891,7 @@ const page = ()=>{
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$Components$2f$HeroBanner$2f$HeroBanner3$2e$jsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                bgimg: "/assets/images/hero/hero-bg.jpg",
+                bgimg: "/assets/images/hero/hero-bg2.png",
                 subtitle: "Sunries Pipes",
                 title: "Revolutionizing Piping Solutions for a <span>Sustainable Future<span/>",
                 content: "Explore our high-quality HDPE Pipes, Sprinkler Systems, and Accessories, designed to enhance efficiency, durability, and performance for agriculture, infrastructure, and beyond.",
@@ -1913,7 +1913,7 @@ const page = ()=>{
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$Components$2f$Feature$2f$Feature4$2e$jsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
                 img: "/assets/images/about/01.png",
-                subtitle: "Our Features",
+                subtitle: "What we do",
                 title: "We Deliver Excellence with Every Pipe",
                 content: "With decades of experience and a passion for innovation, we craft durable, reliable, and sustainable piping solutions for agriculture, infrastructure, and beyond.",
                 FeatureList: [

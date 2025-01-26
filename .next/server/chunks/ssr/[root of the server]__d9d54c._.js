@@ -84,13 +84,13 @@ var __TURBOPACK__imported__module__$5b$next$5d2f$internal$2f$font$2f$google$2f$n
 const metadata = {
     title: {
         absolute: '',
-        default: 'Niotech - Saas & App Landing Page NextJS Template',
-        template: '%s | Niotech - Saas & App Landing Page NextJS Template'
+        default: 'SunrisePipes.in',
+        template: '%s | SunrisePipes.in'
     },
-    description: 'Niotech - Saas & App Landing Page NextJS Template',
+    description: 'SunrisePipes.in',
     openGraph: {
-        title: 'Niotech - Saas & App Landing Page NextJS Template',
-        description: 'Niotech - Saas & App Landing Page NextJS Template'
+        title: 'SunrisePipes.in',
+        description: 'SunrisePipes.in'
     }
 };
 function RootLayout({ children }) {

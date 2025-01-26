@@ -205,17 +205,17 @@ function Header3({ variant }) {
         const handleScroll = ()=>{
             const currentScrollPos = window.scrollY;
             if (currentScrollPos > prevScrollPos) {
-                setIsSticky('cs-gescout_sticky'); // Scrolling down
+                setIsSticky("cs-gescout_sticky"); // Scrolling down
             } else if (currentScrollPos !== 0) {
-                setIsSticky('cs-gescout_show cs-gescout_sticky'); // Scrolling up
+                setIsSticky("cs-gescout_show cs-gescout_sticky"); // Scrolling up
             } else {
                 setIsSticky();
             }
             setPrevScrollPos(currentScrollPos); // Update previous scroll position
         };
-        window.addEventListener('scroll', handleScroll);
+        window.addEventListener("scroll", handleScroll);
         return ()=>{
-            window.removeEventListener('scroll', handleScroll); // Cleanup the event listener
+            window.removeEventListener("scroll", handleScroll); // Cleanup the event listener
         };
     }, [
         prevScrollPos
@@ -223,7 +223,7 @@ function Header3({ variant }) {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("header", {
-                className: `cs_site_header header_style_2 header_area_4 cs_style_1 ${variant ? variant : ''} cs_sticky_header cs_site_header_full_width ${mobileToggle ? 'cs_mobile_toggle_active' : ''} ${isSticky ? isSticky : ''}`,
+                className: `cs_site_header header_style_2 header_area_4 cs_style_1 ${variant ? variant : ""} cs_sticky_header cs_site_header_full_width ${mobileToggle ? "cs_mobile_toggle_active" : ""} ${isSticky ? isSticky : ""}`,
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "cs_main_header",
                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -236,25 +236,40 @@ function Header3({ variant }) {
                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                         className: "cs_site_branding",
                                         href: "/",
-                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
-                                            src: "/assets/images/logo/logo.svg",
-                                            alt: "img",
-                                            width: 177,
-                                            height: 54
-                                        }, void 0, false, {
+                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
+                                            className: "myLogo",
+                                            children: [
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                    children: "Sunrise"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/src/app/Components/Header/Header3.jsx",
+                                                    lineNumber: 47,
+                                                    columnNumber: 11
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                    className: "yellow",
+                                                    children: "Pipes"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/src/app/Components/Header/Header3.jsx",
+                                                    lineNumber: 48,
+                                                    columnNumber: 11
+                                                }, this),
+                                                ".in"
+                                            ]
+                                        }, void 0, true, {
                                             fileName: "[project]/src/app/Components/Header/Header3.jsx",
                                             lineNumber: 46,
-                                            columnNumber: 17
+                                            columnNumber: 10
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/Components/Header/Header3.jsx",
                                         lineNumber: 45,
-                                        columnNumber: 13
+                                        columnNumber: 9
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/Header/Header3.jsx",
                                     lineNumber: 44,
-                                    columnNumber: 13
+                                    columnNumber: 8
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "cs_main_header_center",
@@ -262,35 +277,35 @@ function Header3({ variant }) {
                                         className: "cs_nav cs_primary_font fw-medium",
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                className: mobileToggle ? 'cs-munu_toggle cs_teggle_active' : 'cs-munu_toggle',
+                                                className: mobileToggle ? "cs-munu_toggle cs_teggle_active" : "cs-munu_toggle",
                                                 onClick: ()=>setMobileToggle(!mobileToggle),
                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {}, void 0, false, {
                                                     fileName: "[project]/src/app/Components/Header/Header3.jsx",
-                                                    lineNumber: 60,
-                                                    columnNumber: 21
+                                                    lineNumber: 64,
+                                                    columnNumber: 11
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/Header/Header3.jsx",
-                                                lineNumber: 52,
-                                                columnNumber: 19
+                                                lineNumber: 54,
+                                                columnNumber: 10
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$Components$2f$Header$2f$Nav$2e$jsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                                 setMobileToggle: setMobileToggle
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/Header/Header3.jsx",
-                                                lineNumber: 62,
-                                                columnNumber: 19
+                                                lineNumber: 66,
+                                                columnNumber: 10
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/Components/Header/Header3.jsx",
-                                        lineNumber: 51,
-                                        columnNumber: 17
+                                        lineNumber: 53,
+                                        columnNumber: 9
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/Header/Header3.jsx",
-                                    lineNumber: 50,
-                                    columnNumber: 15
+                                    lineNumber: 52,
+                                    columnNumber: 8
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "cs_main_header_right",
@@ -304,13 +319,13 @@ function Header3({ variant }) {
                                                     className: "bi bi-search"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/Components/Header/Header3.jsx",
-                                                    lineNumber: 68,
-                                                    columnNumber: 104
+                                                    lineNumber: 77,
+                                                    columnNumber: 11
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/Header/Header3.jsx",
-                                                lineNumber: 68,
-                                                columnNumber: 15
+                                                lineNumber: 71,
+                                                columnNumber: 10
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                 className: "header-button ms-4",
@@ -324,66 +339,66 @@ function Header3({ variant }) {
                                                                 className: "bi bi-arrow-right"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/Components/Header/Header3.jsx",
-                                                                lineNumber: 73,
-                                                                columnNumber: 29
+                                                                lineNumber: 86,
+                                                                columnNumber: 13
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/Components/Header/Header3.jsx",
-                                                        lineNumber: 71,
-                                                        columnNumber: 25
+                                                        lineNumber: 84,
+                                                        columnNumber: 12
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/Components/Header/Header3.jsx",
-                                                    lineNumber: 70,
-                                                    columnNumber: 21
+                                                    lineNumber: 80,
+                                                    columnNumber: 11
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/Header/Header3.jsx",
-                                                lineNumber: 69,
-                                                columnNumber: 17
+                                                lineNumber: 79,
+                                                columnNumber: 10
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/Components/Header/Header3.jsx",
-                                        lineNumber: 66,
-                                        columnNumber: 15
+                                        lineNumber: 70,
+                                        columnNumber: 9
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/Header/Header3.jsx",
-                                    lineNumber: 65,
-                                    columnNumber: 13
+                                    lineNumber: 69,
+                                    columnNumber: 8
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/Components/Header/Header3.jsx",
                             lineNumber: 43,
-                            columnNumber: 11
+                            columnNumber: 7
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/Components/Header/Header3.jsx",
                         lineNumber: 42,
-                        columnNumber: 9
+                        columnNumber: 6
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/src/app/Components/Header/Header3.jsx",
                     lineNumber: 41,
-                    columnNumber: 7
+                    columnNumber: 5
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/app/Components/Header/Header3.jsx",
                 lineNumber: 34,
-                columnNumber: 5
+                columnNumber: 4
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "cs_site_header_spacing_140"
             }, void 0, false, {
                 fileName: "[project]/src/app/Components/Header/Header3.jsx",
-                lineNumber: 84,
-                columnNumber: 5
+                lineNumber: 96,
+                columnNumber: 4
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: `search-wrap ${searchToggle ? 'active' : ''}`,
+                className: `search-wrap ${searchToggle ? "active" : ""}`,
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "search-inner",
                     children: [
@@ -393,8 +408,8 @@ function Header3({ variant }) {
                             className: "bi bi-x-lg search-close"
                         }, void 0, false, {
                             fileName: "[project]/src/app/Components/Header/Header3.jsx",
-                            lineNumber: 87,
-                            columnNumber: 11
+                            lineNumber: 99,
+                            columnNumber: 6
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "search-cell",
@@ -408,40 +423,40 @@ function Header3({ variant }) {
                                         placeholder: "Search..."
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/Components/Header/Header3.jsx",
-                                        lineNumber: 91,
-                                        columnNumber: 23
+                                        lineNumber: 107,
+                                        columnNumber: 9
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/Header/Header3.jsx",
-                                    lineNumber: 90,
-                                    columnNumber: 19
+                                    lineNumber: 106,
+                                    columnNumber: 8
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/src/app/Components/Header/Header3.jsx",
-                                lineNumber: 89,
-                                columnNumber: 15
+                                lineNumber: 105,
+                                columnNumber: 7
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/src/app/Components/Header/Header3.jsx",
-                            lineNumber: 88,
-                            columnNumber: 11
+                            lineNumber: 104,
+                            columnNumber: 6
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/app/Components/Header/Header3.jsx",
-                    lineNumber: 86,
-                    columnNumber: 7
+                    lineNumber: 98,
+                    columnNumber: 5
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/app/Components/Header/Header3.jsx",
-                lineNumber: 85,
-                columnNumber: 7
+                lineNumber: 97,
+                columnNumber: 4
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/Components/Header/Header3.jsx",
         lineNumber: 33,
-        columnNumber: 5
+        columnNumber: 3
     }, this);
 }
 }}),

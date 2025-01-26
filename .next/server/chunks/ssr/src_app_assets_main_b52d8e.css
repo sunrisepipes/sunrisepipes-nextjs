@@ -1,5 +1,8 @@
 /* [project]/src/app/assets/main.css [app-client] (css) */
 :root {
+  --ora: #f36b25;
+  --yel: #ffae12;
+  --blu: #307fe2;
   --body: #fff;
   --black: #000;
   --white: #fff;
@@ -6155,6 +6158,25 @@ input.main-search-input::placeholder {
   }
 }
 
+.myLogo {
+  color: var(--theme);
+  font-family: Urbanist, sans-serif;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: -.96px;
+  margin-bottom: 25px;
+}
+
+.myLogo span {
+  color: var(--ora);
+}
+
+.myLogo span.yellow {
+  color: var(--yel);
+}
+
 .footer-top-logo {
   position: relative;
 }
@@ -6766,7 +6788,7 @@ input.main-search-input::placeholder {
 }
 
 .hero-3 .hero-content h6 {
-  font-size: 20px;
+  font-size: 24px;
   font-weight: 600;
   letter-spacing: -.4px;
   color: #1ad079;
@@ -6830,21 +6852,21 @@ input.main-search-input::placeholder {
 }
 
 .hero-3 .hero-image {
-  margin-right: -60%;
+  margin-left: 0;
   position: relative;
 }
 
 .hero-3 .hero-image .mobile-image {
   position: absolute;
   bottom: 0;
-  left: -60px;
+  right: 0;
   max-width: 180px;
 }
 
 @media (width <= 1399px) {
   .hero-3 .hero-image .mobile-image {
     max-width: 140px;
-    left: 0;
+    right: 0;
   }
 }
 
@@ -6867,7 +6889,7 @@ input.main-search-input::placeholder {
 }
 
 .hero-3 .hero-image img {
-  border-radius: 26px 0 0 26px;
+  border-radius: 26px;
 }
 
 .brandSliderOne {
@@ -10235,7 +10257,8 @@ input.main-search-input::placeholder {
   font-weight: 600;
   line-height: 130%;
   text-transform: capitalize;
-  margin-bottom: 40px;
+  margin-top: 40px;
+  margin-bottom: 10px;
 }
 
 .project-details-wapper .single-desc2 .text1 {

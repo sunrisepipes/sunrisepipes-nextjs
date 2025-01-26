@@ -1,6 +1,10 @@
 import Link from "next/link";
 
 const ProjectCard = ({img,title,btnname}) => {
+
+    const baseUrl = "/project/project-details";
+    const titleUrl = title.replace(/\s+/g, '-').toLowerCase();
+    const finalUrl = `${baseUrl}/${titleUrl}`;
     return (
         <div className="project-card style1">
         <div className="project-thumb">
@@ -8,7 +12,7 @@ const ProjectCard = ({img,title,btnname}) => {
         </div>
         <div className="project-content">
             <h3>
-                <Link href="/project/project-details">{title}</Link>
+                <Link href={finalUrl}>{title}</Link>
             </h3>
             <p className="text">{btnname}</p>
         </div>

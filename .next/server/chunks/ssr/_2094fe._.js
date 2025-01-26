@@ -51,6 +51,9 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist
 ;
 ;
 const ProjectCard = ({ img, title, btnname })=>{
+    const baseUrl = "/project/project-details";
+    const titleUrl = title.replace(/\s+/g, '-').toLowerCase();
+    const finalUrl = `${baseUrl}/${titleUrl}`;
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
         className: "project-card style1",
         children: [
@@ -61,12 +64,12 @@ const ProjectCard = ({ img, title, btnname })=>{
                     alt: "thumb"
                 }, void 0, false, {
                     fileName: "[project]/src/app/Components/Card/ProjectCard.jsx",
-                    lineNumber: 7,
+                    lineNumber: 11,
                     columnNumber: 13
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/app/Components/Card/ProjectCard.jsx",
-                lineNumber: 6,
+                lineNumber: 10,
                 columnNumber: 9
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -74,16 +77,16 @@ const ProjectCard = ({ img, title, btnname })=>{
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                            href: "/project/project-details",
+                            href: finalUrl,
                             children: title
                         }, void 0, false, {
                             fileName: "[project]/src/app/Components/Card/ProjectCard.jsx",
-                            lineNumber: 11,
+                            lineNumber: 15,
                             columnNumber: 17
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/Components/Card/ProjectCard.jsx",
-                        lineNumber: 10,
+                        lineNumber: 14,
                         columnNumber: 13
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -91,19 +94,19 @@ const ProjectCard = ({ img, title, btnname })=>{
                         children: btnname
                     }, void 0, false, {
                         fileName: "[project]/src/app/Components/Card/ProjectCard.jsx",
-                        lineNumber: 13,
+                        lineNumber: 17,
                         columnNumber: 13
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/Components/Card/ProjectCard.jsx",
-                lineNumber: 9,
+                lineNumber: 13,
                 columnNumber: 9
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/Components/Card/ProjectCard.jsx",
-        lineNumber: 5,
+        lineNumber: 9,
         columnNumber: 9
     }, this);
 };
@@ -138,12 +141,12 @@ const Project1 = ()=>{
                         }, void 0, false, {
                             fileName: "[project]/src/app/Components/Project/Project1.jsx",
                             lineNumber: 9,
-                            columnNumber: 17
+                            columnNumber: 7
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/Components/Project/Project1.jsx",
                         lineNumber: 8,
-                        columnNumber: 17
+                        columnNumber: 6
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "col-xl-6 col-md-6",
@@ -158,13 +161,13 @@ const Project1 = ()=>{
                                         btnname: "View Products"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/Components/Project/Project1.jsx",
-                                        lineNumber: 19,
-                                        columnNumber: 29
+                                        lineNumber: 18,
+                                        columnNumber: 9
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/Project/Project1.jsx",
-                                    lineNumber: 18,
-                                    columnNumber: 25
+                                    lineNumber: 17,
+                                    columnNumber: 8
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "col-md-6",
@@ -174,13 +177,13 @@ const Project1 = ()=>{
                                         btnname: "View Products"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/Components/Project/Project1.jsx",
-                                        lineNumber: 26,
-                                        columnNumber: 25
+                                        lineNumber: 25,
+                                        columnNumber: 9
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/Project/Project1.jsx",
-                                    lineNumber: 25,
-                                    columnNumber: 25
+                                    lineNumber: 24,
+                                    columnNumber: 8
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "col-md-6",
@@ -190,56 +193,40 @@ const Project1 = ()=>{
                                         btnname: "View Products"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/Components/Project/Project1.jsx",
-                                        lineNumber: 33,
-                                        columnNumber: 25
+                                        lineNumber: 32,
+                                        columnNumber: 9
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/Project/Project1.jsx",
-                                    lineNumber: 32,
-                                    columnNumber: 25
-                                }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                    className: "col-md-6",
-                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$Components$2f$Card$2f$ProjectCard$2e$jsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                                        img: "/assets/images/project/projectThumb1_5.jpg",
-                                        title: "HDPE Accessories",
-                                        btnname: "View Products"
-                                    }, void 0, false, {
-                                        fileName: "[project]/src/app/Components/Project/Project1.jsx",
-                                        lineNumber: 40,
-                                        columnNumber: 25
-                                    }, this)
-                                }, void 0, false, {
-                                    fileName: "[project]/src/app/Components/Project/Project1.jsx",
-                                    lineNumber: 39,
-                                    columnNumber: 25
+                                    lineNumber: 31,
+                                    columnNumber: 8
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/Components/Project/Project1.jsx",
                             lineNumber: 16,
-                            columnNumber: 21
+                            columnNumber: 7
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/Components/Project/Project1.jsx",
                         lineNumber: 15,
-                        columnNumber: 17
+                        columnNumber: 6
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/Components/Project/Project1.jsx",
                 lineNumber: 7,
-                columnNumber: 13
+                columnNumber: 5
             }, this)
         }, void 0, false, {
             fileName: "[project]/src/app/Components/Project/Project1.jsx",
             lineNumber: 6,
-            columnNumber: 9
+            columnNumber: 4
         }, this)
     }, void 0, false, {
         fileName: "[project]/src/app/Components/Project/Project1.jsx",
         lineNumber: 5,
-        columnNumber: 5
+        columnNumber: 3
     }, this);
 };
 const __TURBOPACK__default__export__ = Project1;

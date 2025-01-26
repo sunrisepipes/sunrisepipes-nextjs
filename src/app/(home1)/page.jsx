@@ -15,7 +15,7 @@ const page = () => {
 	return (
 		<div>
 			<HeroBanner3
-				bgimg="/assets/images/hero/hero-bg.jpg"
+				bgimg="/assets/images/hero/hero-bg2.png"
 				subtitle="Sunries Pipes"
 				title="Revolutionizing Piping Solutions for a <span>Sustainable Future<span/>"
 				content="Explore our high-quality HDPE Pipes, Sprinkler Systems, and Accessories, designed to enhance efficiency, durability, and performance for agriculture, infrastructure, and beyond."
@@ -29,7 +29,7 @@ const page = () => {
 			<Brand3></Brand3>
 			<Feature4
 				img="/assets/images/about/01.png"
-				subtitle="Our Features"
+				subtitle="What we do"
 				title="We Deliver Excellence with Every Pipe"
 				content="With decades of experience and a passion for innovation, we craft durable, reliable, and sustainable piping solutions for agriculture, infrastructure, and beyond."
 				FeatureList={[

@@ -114,8 +114,16 @@ const ContactInfo = ()=>{
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                                     className: "text",
                                                     href: "#",
-                                                    children: "2464 Royal Ln. Mesa, New Jersey 45463."
-                                                }, void 0, false, {
+                                                    children: [
+                                                        "Ghiloth Industrial Area Neemrana,",
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
+                                                            fileName: "[project]/src/app/Components/ContactInfo/ContactInfo.jsx",
+                                                            lineNumber: 24,
+                                                            columnNumber: 95
+                                                        }, this),
+                                                        " Rajasthan 12345, India"
+                                                    ]
+                                                }, void 0, true, {
                                                     fileName: "[project]/src/app/Components/ContactInfo/ContactInfo.jsx",
                                                     lineNumber: 24,
                                                     columnNumber: 33
@@ -237,8 +245,8 @@ const ContactInfo = ()=>{
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                                     className: "title",
                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                        href: "mailto:info@exmple.com",
-                                                        children: " info@exmple.com "
+                                                        href: "mailto:info@sunrisepipes.in",
+                                                        children: " info@sunrisepipes.in "
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/Components/ContactInfo/ContactInfo.jsx",
                                                         lineNumber: 59,
@@ -320,7 +328,7 @@ const ContactInfo = ()=>{
                                                     className: "title",
                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                                         href: "tel:34534534543",
-                                                        children: " Hot: +208-666-0112 "
+                                                        children: " Hot: +91 90574-81000 "
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/Components/ContactInfo/ContactInfo.jsx",
                                                         lineNumber: 82,
@@ -390,7 +398,7 @@ const ContactInfo = ()=>{
                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "contact-map",
                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("iframe", {
-                                            src: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d57559.095682562875!2d88.60522403504652!3d25.6234028155105!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39fb529bc7fc909b%3A0xd8f861ed9baf24de!2sDinajpur!5e0!3m2!1sen!2sbd!4v1729067103339!5m2!1sen!2sbd",
+                                            src: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7042.759968757982!2d76.39709648886894!3d28.04342015396582!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3912aba93e13266d%3A0x349eddcbde64e8d1!2sGhilot%2C%20Rajasthan%20301705!5e0!3m2!1sen!2sin!4v1737915918227!5m2!1sen!2sin",
                                             loading: "lazy"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/Components/ContactInfo/ContactInfo.jsx",

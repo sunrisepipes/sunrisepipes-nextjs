@@ -21,7 +21,7 @@ const ContactInfo = () => {
                                     </svg>
                                 </div>
                                 <div className="title">Our Address</div>
-                                <a className="text" href="#">2464 Royal Ln. Mesa, New Jersey 45463.</a>
+                                <a className="text" href="#">Ghiloth Industrial Area Neemrana,<br/> Rajasthan 12345, India</a>
                             </div>
                         </div>
                     </div>
@@ -56,7 +56,7 @@ const ContactInfo = () => {
                                     </svg>
                                 </div>
                                 <h3 className="title">
-                                    <a href="mailto:info@exmple.com"> info@exmple.com </a>
+                                    <a href="mailto:info@sunrisepipes.in"> info@sunrisepipes.in </a>
                                 </h3>
 
                                 <p className="text">Email us anytime for anykind ofquety.</p>
@@ -79,7 +79,7 @@ const ContactInfo = () => {
                                     </svg>
                                 </div>
                                 <h3 className="title">
-                                    <a href="tel:34534534543"> Hot: +208-666-0112 </a>
+                                    <a href="tel:34534534543"> Hot: +91 90574-81000 </a>
                                 </h3>
 
                                 <p className="text">Call us any kind suppor,we will wait for it</p>
@@ -99,7 +99,7 @@ const ContactInfo = () => {
                     <div className="col-xl-6">
                         <div className="contact-map">
                             <iframe
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d57559.095682562875!2d88.60522403504652!3d25.6234028155105!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39fb529bc7fc909b%3A0xd8f861ed9baf24de!2sDinajpur!5e0!3m2!1sen!2sbd!4v1729067103339!5m2!1sen!2sbd"
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7042.759968757982!2d76.39709648886894!3d28.04342015396582!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3912aba93e13266d%3A0x349eddcbde64e8d1!2sGhilot%2C%20Rajasthan%20301705!5e0!3m2!1sen!2sin!4v1737915918227!5m2!1sen!2sin"
                                  loading="lazy"
                                 ></iframe>
                         </div>

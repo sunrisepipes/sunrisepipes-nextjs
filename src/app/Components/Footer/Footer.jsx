@@ -14,7 +14,7 @@ const Footer = () => {
                             <div className="single-footer-widget">
                                 <div className="widget-head">
                                     <Link href="/">
-                                    <Image src="/assets/images/logo/logo.svg" alt="img" width={177} height={54}   />
+                                    <h2 className="myLogo"><span>Sunrise</span><span className="yellow">Pipes</span>.in</h2>
                                     </Link>
                                 </div>
                                 <div className="footer-content">
@@ -60,18 +60,13 @@ const Footer = () => {
                                         </Link>
                                     </li>
                                     <li>
-                                        <Link href="/project">
-                                            Integrations
+                                        <Link href="/team">
+                                            Our Tean
                                         </Link>
                                     </li>
                                     <li>
-                                        <Link href="/service">
-                                            Features
-                                        </Link>
-                                    </li>
-                                    <li>
-                                        <Link href="/pricing">
-                                            Pricing
+                                        <Link href="/faq">
+                                            FAQ
                                         </Link>
                                     </li>
                                     <li>
@@ -85,39 +80,30 @@ const Footer = () => {
                         <div className="col-xl-2 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".8s">
                             <div className="single-footer-widget">
                                 <div className="widget-head">
-                                    <h3> Utility Pages </h3>
+                                    <h3> Products</h3>
                                 </div>
                                 <ul className="list-area">
                                     <li>
                                         <Link href="/project">
-                                            Integrations
+                                            HDPE Pipes
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/blog">
-                                            Blog
+                                            Sprinkler System
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/contact">
-                                            Contact Us
+                                            MDPE Pipes
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/pricing">
-                                            Pricing
+                                            Micro Sprinkler System
                                         </Link>
                                     </li>
-                                    <li>
-                                        <Link href="/project/project-details">
-                                            Project details
-                                        </Link>
-                                    </li>
-                                    <li>
-                                        <Link href="/team">
-                                            Our Team
-                                        </Link>
-                                    </li>
+                                    
                                 </ul>
                             </div>
                         </div>
@@ -126,8 +112,7 @@ const Footer = () => {
                                 <div className="contact-box">
                                     <div className="subtitle">Address</div>
                                     <div className="widget-head">Ready to get started?</div>
-                                    <div className="text">It is a long established fact that a reader will be distracted layout.
-                                    </div>
+                                    <div className="text">Ghiloth Industrial Area Neemrana,<br/> Rajasthan 12345, India</div>
                                     <div className="info">
                                         <div className="icon"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="23"
                                                 viewBox="0 0 22 23" fill="none">
@@ -140,8 +125,8 @@ const Footer = () => {
                                             </svg>
                                         </div>
                                         <div className="link">
-                                            <a href="mailto:contact.tech@gmail.com">contact.tech@gmail.com</a> <br/>
-                                            <a href="mailto:info@Niotech.com">info@Niotech.com</a>
+                                            <a href="mailto:sunrisepipes2024@gmail.com">sunrisepipes2024@gmail.com</a> <br/>
+                                            <a href="mailto:info@sunrisepipes.in">info@sunrisepipes.in</a>
                                         </div>
                                     </div>
                                     <div className="info">
@@ -163,8 +148,7 @@ const Footer = () => {
                                             </svg>
                                         </div>
                                         <div className="link">
-                                            <a href="tel:21314234323543">+880 123 654 789 00</a> <br/>
-                                            <a href="tel:35234523452345">+001 6520 698 00</a>
+                                            <a href="tel:21314234323543">+91 90574 81000</a> 
                                         </div>
                                     </div>
                                 </div>
@@ -177,13 +161,12 @@ const Footer = () => {
                 <div className="container">
                     <div className="footer-wrapper d-flex align-items-center justify-content-between">
                         <p className="wow fadeInLeft" data-wow-delay=".3s">
-                            Copyright © Niotech All rights
+                            
                         </p>
                         <ul className="social-links" data-wow-delay=".5s">
                             <li> <a href="#"><i className="bi bi-facebook"></i></a> </li>
-                            <li> <a href="#"><i className="bi bi-twitter"></i></a> </li>
                             <li> <a href="#"><i className="bi bi-linkedin"></i></a> </li>
-                            <li> <a href="#"><i className="bi bi-pinterest"></i></a> </li>
+                            <li> <a href="#"><i className="bi bi-instagram"></i></a> </li>
                         </ul>
                     </div>
                 </div>
