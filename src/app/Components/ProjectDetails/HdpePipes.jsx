@@ -1,6 +1,6 @@
 "use client";
 import Slider from "react-slick";
-import data from "../../Data/project2.json";
+import data from "../../Data/productHdpe.json";
 import Image from "next/image";
 const HdpePipes = () => {
 	const settings = {
@@ -96,7 +96,7 @@ const HdpePipes = () => {
 							<div className="col-12">
 								<div className="main-thumb">
 									<img
-										src="/assets/images/project/projecDetailstThumb1_1.jpg"
+										src="/assets/images/product/projecDetailstThumb1_1.jpg"
 										alt="thumb"
 									/>
 								</div>

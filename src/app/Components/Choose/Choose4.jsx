@@ -12,13 +12,10 @@ const Choose4 = () => {
                             <div className="wcu-content">
                                 <div className="section-title">
                                     <div className="subtitle wow fadeInUp" data-wow-delay=".2s">
-                                        Customizations & Analysis <Image src="/assets/images/icon/fireIcon.svg" alt="img" width={16} height={17}   />
+                                    The Visionaries Behind Our Success <Image src="/assets/images/icon/fireIcon.svg" alt="img" width={16} height={17}   />
                                     </div>
-                                    <h2 className="title wow fadeInUp" data-wow-delay=".4s">Manage your Traffic Growth
-                                        Easily</h2>
-                                    <p className="text1 wow fadeInUp" data-wow-delay=".6s">There are many variations of
-                                        passages of Lorem Ipsum available, but the majority have suffered alteration in
-                                        some form, by injected humour, or randomised words which do not look even</p>
+                                    <h2 className="title wow fadeInUp" data-wow-delay=".4s">Meet Our Team </h2>
+                                    <p className="text1 wow fadeInUp" data-wow-delay=".6s">At Sunrise Pipe Private Limited, our team of directors brings together decades of experience, innovation, and leadership to drive our mission forward. With a shared commitment to excellence and sustainability, they ensure we deliver the highest quality products and services to our customers.</p>
                                     <p className="text2 wow fadeInUp" data-wow-delay=".8s">There are many variations of
                                         passages of Lorem Ipsum available, but the majority have suffered alteration in
                                         some form,</p>
@@ -42,21 +39,21 @@ const Choose4 = () => {
                                 <div className="counter-box-wrapper style3">
                                     <div className="counter-box style3 wow fadeInUp" data-wow-delay=".2s">
                                         <div className="counter">
-                                            <span className="counter-nubmer">56</span> <span>k+</span>
+                                            <span className="counter-nubmer">120</span> <span>k+</span>
                                         </div>
-                                        <p className="text">Comparers</p>
+                                        <p className="text">Satisfied Clients</p>
                                     </div>
                                     <div className="counter-box style3 wow fadeInUp" data-wow-delay=".4s">
                                         <div className="counter">
-                                            <span className="counter-nubmer">126</span> <span>k+</span>
+                                            <span className="counter-nubmer">170</span> <span>+</span>
                                         </div>
-                                        <p className="text">Use People</p>
+                                        <p className="text">Products</p>
                                     </div>
                                     <div className="counter-box style3 wow fadeInUp" data-wow-delay=".6s">
                                         <div className="counter">
-                                            <span className="counter-nubmer">1.2</span> <span>M+</span>
+                                            <span className="counter-nubmer">280</span> <span>+</span>
                                         </div>
-                                        <p className="text">Download It</p>
+                                        <p className="text">Expert Memebers</p>
                                     </div>
                                 </div>
                             </div>

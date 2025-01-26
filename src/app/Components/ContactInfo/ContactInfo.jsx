@@ -109,8 +109,7 @@ const ContactInfo = () => {
                             <h2 className="contact-title">
                                 Ready to Get Started?
                             </h2>
-                            <p className="desc">Nullam varius, erat quis iaculis dictum, eros urna varius eros, ut blandit
-                                felis odio in turpis. Quisque rhoncus,</p>
+                            <p className="desc">Ghiloth Industrial Area Neemrana,<br/> Rajasthan 12345, India</p>
 
                             <form id="contact-form" className="contact-form-items">
                                 <div className="row g-4">

@@ -16,18 +16,18 @@ const page = () => {
             <About4
                 img1="/assets/images/about/aboutThumb1_1.png"
                 img2="/assets/images/about/aboutThumb1_2.png"
-                subtitle="About Our App"
-                title="Simple Reports & Analytics Backdown As it"
-                content="There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use"
+                subtitle="About Our Company"
+                title="Sunrise Private Limited"
+                content="At Sunrise Pipe Private Limited, we are committed to delivering top-quality HDPE pipes, sprinklers, and accessories to meet diverse industrial and agricultural needs. Backed by our parent company, SHIV SHAKTI PIPE UDYOG, with over three decades of experience, we prioritize "
                 FeatureList={[
-                    "With our Technological and Marketing Solutions.",
-                    "We are trusted all over the world.",
-                    "Start Your 14 Days Free Trials Today!",
+                    "innovation",
+                    "durability",
+                    "and sustainability.",
                 ]}                
                 btnname="Discover More"
                 btnurl="/about"
             ></About4>  
-            <Choose2
+            {/* <Choose2
                img1="/assets/images/wcu/wcuThumb2_1.png" 
                img2="/assets/images/wcu/wcuThumb2_2.png" 
                img3="/assets/images/wcu/wcuThumb2_3.png" 
@@ -41,7 +41,7 @@ const page = () => {
                boxtitle2="Innovative Solutions" 
                boxcontent2="There are many variations of passages of Lorem Ipsum available, but the majority have" 
             ></Choose2> 
-            <HowWork></HowWork>
+            <HowWork></HowWork> */}
             <Choose4></Choose4>  
             <Testimonial4></Testimonial4>                         
     </div>

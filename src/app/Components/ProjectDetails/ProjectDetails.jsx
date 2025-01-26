@@ -44,7 +44,7 @@ const ProjectDetails = () => {
                     <div className="row">
                         <div className="col-12">
                             <div className="main-thumb">
-                            <img src="/assets/images/project/projecDetailstThumb1_1.jpg" alt="thumb" />
+                            <img src="/assets/images/product/projecDetailstThumb1_1.jpg" alt="thumb" />
                             </div>
                         </div>
                         <div className="col-xl-4 col-md-6">

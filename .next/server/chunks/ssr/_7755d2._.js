@@ -668,7 +668,7 @@ const Choose4 = ()=>{
                                                     className: "subtitle wow fadeInUp",
                                                     "data-wow-delay": ".2s",
                                                     children: [
-                                                        "Customizations & Analysis ",
+                                                        "The Visionaries Behind Our Success ",
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
                                                             src: "/assets/images/icon/fireIcon.svg",
                                                             alt: "img",
@@ -677,7 +677,7 @@ const Choose4 = ()=>{
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/Components/Choose/Choose4.jsx",
                                                             lineNumber: 15,
-                                                            columnNumber: 67
+                                                            columnNumber: 72
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
@@ -688,7 +688,7 @@ const Choose4 = ()=>{
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                                     className: "title wow fadeInUp",
                                                     "data-wow-delay": ".4s",
-                                                    children: "Manage your Traffic Growth Easily"
+                                                    children: "Meet Our Team "
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/Components/Choose/Choose4.jsx",
                                                     lineNumber: 17,
@@ -697,10 +697,10 @@ const Choose4 = ()=>{
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                     className: "text1 wow fadeInUp",
                                                     "data-wow-delay": ".6s",
-                                                    children: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which do not look even"
+                                                    children: "At Sunrise Pipe Private Limited, our team of directors brings together decades of experience, innovation, and leadership to drive our mission forward. With a shared commitment to excellence and sustainability, they ensure we deliver the highest quality products and services to our customers."
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/Components/Choose/Choose4.jsx",
-                                                    lineNumber: 19,
+                                                    lineNumber: 18,
                                                     columnNumber: 37
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -709,7 +709,7 @@ const Choose4 = ()=>{
                                                     children: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form,"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/Components/Choose/Choose4.jsx",
-                                                    lineNumber: 22,
+                                                    lineNumber: 19,
                                                     columnNumber: 37
                                                 }, this)
                                             ]
@@ -739,12 +739,12 @@ const Choose4 = ()=>{
                                                                 fill: "white"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/Components/Choose/Choose4.jsx",
-                                                                lineNumber: 31,
+                                                                lineNumber: 28,
                                                                 columnNumber: 45
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/Components/Choose/Choose4.jsx",
-                                                            lineNumber: 30,
+                                                            lineNumber: 27,
                                                             columnNumber: 41
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("defs", {
@@ -756,29 +756,29 @@ const Choose4 = ()=>{
                                                                     fill: "white"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/app/Components/Choose/Choose4.jsx",
-                                                                    lineNumber: 37,
+                                                                    lineNumber: 34,
                                                                     columnNumber: 49
                                                                 }, this)
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/Components/Choose/Choose4.jsx",
-                                                                lineNumber: 36,
+                                                                lineNumber: 33,
                                                                 columnNumber: 45
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/Components/Choose/Choose4.jsx",
-                                                            lineNumber: 35,
+                                                            lineNumber: 32,
                                                             columnNumber: 41
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/app/Components/Choose/Choose4.jsx",
-                                                    lineNumber: 28,
+                                                    lineNumber: 25,
                                                     columnNumber: 37
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/app/Components/Choose/Choose4.jsx",
-                                            lineNumber: 26,
+                                            lineNumber: 23,
                                             columnNumber: 33
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -793,10 +793,10 @@ const Choose4 = ()=>{
                                                             children: [
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                     className: "counter-nubmer",
-                                                                    children: "56"
+                                                                    children: "120"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/app/Components/Choose/Choose4.jsx",
-                                                                    lineNumber: 45,
+                                                                    lineNumber: 42,
                                                                     columnNumber: 45
                                                                 }, this),
                                                                 " ",
@@ -804,27 +804,27 @@ const Choose4 = ()=>{
                                                                     children: "k+"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/app/Components/Choose/Choose4.jsx",
-                                                                    lineNumber: 45,
-                                                                    columnNumber: 88
+                                                                    lineNumber: 42,
+                                                                    columnNumber: 89
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/src/app/Components/Choose/Choose4.jsx",
-                                                            lineNumber: 44,
+                                                            lineNumber: 41,
                                                             columnNumber: 41
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                             className: "text",
-                                                            children: "Comparers"
+                                                            children: "Satisfied Clients"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/Components/Choose/Choose4.jsx",
-                                                            lineNumber: 47,
+                                                            lineNumber: 44,
                                                             columnNumber: 41
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/app/Components/Choose/Choose4.jsx",
-                                                    lineNumber: 43,
+                                                    lineNumber: 40,
                                                     columnNumber: 37
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -836,38 +836,38 @@ const Choose4 = ()=>{
                                                             children: [
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                     className: "counter-nubmer",
-                                                                    children: "126"
+                                                                    children: "170"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/app/Components/Choose/Choose4.jsx",
-                                                                    lineNumber: 51,
+                                                                    lineNumber: 48,
                                                                     columnNumber: 45
                                                                 }, this),
                                                                 " ",
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    children: "k+"
+                                                                    children: "+"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/app/Components/Choose/Choose4.jsx",
-                                                                    lineNumber: 51,
+                                                                    lineNumber: 48,
                                                                     columnNumber: 89
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/src/app/Components/Choose/Choose4.jsx",
-                                                            lineNumber: 50,
+                                                            lineNumber: 47,
                                                             columnNumber: 41
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                             className: "text",
-                                                            children: "Use People"
+                                                            children: "Products"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/Components/Choose/Choose4.jsx",
-                                                            lineNumber: 53,
+                                                            lineNumber: 50,
                                                             columnNumber: 41
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/app/Components/Choose/Choose4.jsx",
-                                                    lineNumber: 49,
+                                                    lineNumber: 46,
                                                     columnNumber: 37
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -879,44 +879,44 @@ const Choose4 = ()=>{
                                                             children: [
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                     className: "counter-nubmer",
-                                                                    children: "1.2"
+                                                                    children: "280"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/app/Components/Choose/Choose4.jsx",
-                                                                    lineNumber: 57,
+                                                                    lineNumber: 54,
                                                                     columnNumber: 45
                                                                 }, this),
                                                                 " ",
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    children: "M+"
+                                                                    children: "+"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/app/Components/Choose/Choose4.jsx",
-                                                                    lineNumber: 57,
+                                                                    lineNumber: 54,
                                                                     columnNumber: 89
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/src/app/Components/Choose/Choose4.jsx",
-                                                            lineNumber: 56,
+                                                            lineNumber: 53,
                                                             columnNumber: 41
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                             className: "text",
-                                                            children: "Download It"
+                                                            children: "Expert Memebers"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/Components/Choose/Choose4.jsx",
-                                                            lineNumber: 59,
+                                                            lineNumber: 56,
                                                             columnNumber: 41
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/app/Components/Choose/Choose4.jsx",
-                                                    lineNumber: 55,
+                                                    lineNumber: 52,
                                                     columnNumber: 37
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/app/Components/Choose/Choose4.jsx",
-                                            lineNumber: 42,
+                                            lineNumber: 39,
                                             columnNumber: 33
                                         }, this)
                                     ]
@@ -945,12 +945,12 @@ const Choose4 = ()=>{
                                                 height: 503
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/Choose/Choose4.jsx",
-                                                lineNumber: 67,
+                                                lineNumber: 64,
                                                 columnNumber: 37
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/Components/Choose/Choose4.jsx",
-                                            lineNumber: 66,
+                                            lineNumber: 63,
                                             columnNumber: 33
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -962,12 +962,12 @@ const Choose4 = ()=>{
                                                 height: 340
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/Choose/Choose4.jsx",
-                                                lineNumber: 70,
+                                                lineNumber: 67,
                                                 columnNumber: 37
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/Components/Choose/Choose4.jsx",
-                                            lineNumber: 69,
+                                            lineNumber: 66,
                                             columnNumber: 33
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -978,7 +978,7 @@ const Choose4 = ()=>{
                                                     children: "Traffic Growth"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/Components/Choose/Choose4.jsx",
-                                                    lineNumber: 73,
+                                                    lineNumber: 70,
                                                     columnNumber: 37
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -986,7 +986,7 @@ const Choose4 = ()=>{
                                                     children: "Total traffic growth of 45%"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/Components/Choose/Choose4.jsx",
-                                                    lineNumber: 74,
+                                                    lineNumber: 71,
                                                     columnNumber: 37
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -999,7 +999,7 @@ const Choose4 = ()=>{
                                                             height: 128
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/Components/Choose/Choose4.jsx",
-                                                            lineNumber: 76,
+                                                            lineNumber: 73,
                                                             columnNumber: 41
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1009,43 +1009,43 @@ const Choose4 = ()=>{
                                                                     children: "Transaction"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/app/Components/Choose/Choose4.jsx",
-                                                                    lineNumber: 78,
+                                                                    lineNumber: 75,
                                                                     columnNumber: 45
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                                                     children: "86%"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/app/Components/Choose/Choose4.jsx",
-                                                                    lineNumber: 79,
+                                                                    lineNumber: 76,
                                                                     columnNumber: 45
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/src/app/Components/Choose/Choose4.jsx",
-                                                            lineNumber: 77,
+                                                            lineNumber: 74,
                                                             columnNumber: 41
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/app/Components/Choose/Choose4.jsx",
-                                                    lineNumber: 75,
+                                                    lineNumber: 72,
                                                     columnNumber: 37
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/app/Components/Choose/Choose4.jsx",
-                                            lineNumber: 72,
+                                            lineNumber: 69,
                                             columnNumber: 33
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/Components/Choose/Choose4.jsx",
-                                    lineNumber: 65,
+                                    lineNumber: 62,
                                     columnNumber: 29
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/src/app/Components/Choose/Choose4.jsx",
-                                lineNumber: 64,
+                                lineNumber: 61,
                                 columnNumber: 25
                             }, this)
                         ]
@@ -1463,42 +1463,19 @@ const page = ()=>{
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$Components$2f$About$2f$About4$2e$jsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
                 img1: "/assets/images/about/aboutThumb1_1.png",
                 img2: "/assets/images/about/aboutThumb1_2.png",
-                subtitle: "About Our App",
-                title: "Simple Reports & Analytics Backdown As it",
-                content: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use",
+                subtitle: "About Our Company",
+                title: "Sunrise Private Limited",
+                content: "At Sunrise Pipe Private Limited, we are committed to delivering top-quality HDPE pipes, sprinklers, and accessories to meet diverse industrial and agricultural needs. Backed by our parent company, SHIV SHAKTI PIPE UDYOG, with over three decades of experience, we prioritize ",
                 FeatureList: [
-                    "With our Technological and Marketing Solutions.",
-                    "We are trusted all over the world.",
-                    "Start Your 14 Days Free Trials Today!"
+                    "innovation",
+                    "durability",
+                    "and sustainability."
                 ],
                 btnname: "Discover More",
                 btnurl: "/about"
             }, void 0, false, {
                 fileName: "[project]/src/app/(innerpage)/about/page.jsx",
                 lineNumber: 16,
-                columnNumber: 13
-            }, this),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$Components$2f$Choose$2f$Choose2$2e$jsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                img1: "/assets/images/wcu/wcuThumb2_1.png",
-                img2: "/assets/images/wcu/wcuThumb2_2.png",
-                img3: "/assets/images/wcu/wcuThumb2_3.png",
-                subtitle: "Customizations & Analysis",
-                title: "Manage your Team's Easily Communication.",
-                content: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even",
-                boximg1: "/assets/images/icon/wcuIcon2_1.svg",
-                boxtitle1: "Easy Collaboration",
-                boxcontent1: "There are many variations of passages of Lorem Ipsum available, but the majority have",
-                boximg2: "/assets/images/icon/wcuIcon2_2.svg",
-                boxtitle2: "Innovative Solutions",
-                boxcontent2: "There are many variations of passages of Lorem Ipsum available, but the majority have"
-            }, void 0, false, {
-                fileName: "[project]/src/app/(innerpage)/about/page.jsx",
-                lineNumber: 30,
-                columnNumber: 13
-            }, this),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$Components$2f$HowWork$2f$HowWork$2e$jsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
-                fileName: "[project]/src/app/(innerpage)/about/page.jsx",
-                lineNumber: 44,
                 columnNumber: 13
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$Components$2f$Choose$2f$Choose4$2e$jsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {

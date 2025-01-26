@@ -24,7 +24,7 @@ const Team1 = () => {
                                     <li><Link href={item.facebook}><i className="bi bi-facebook"></i></Link></li>
                             <li><Link href={item.twitter}><i className="bi bi-twitter"></i></Link></li>
                             <li><Link href={item.linkedin}><i className="bi bi-linkedin"></i></Link></li>
-                            <li><Link href={item.pinterest}><i className="bi bi-pinterest"></i></Link></li>
+                            <li><Link href={item.instagram}><i className="bi bi-instagram"></i></Link></li>
                                     </ul>
                                 </div>
                             </div>
