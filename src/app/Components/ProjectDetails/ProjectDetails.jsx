@@ -1,6 +1,6 @@
 "use client"
 import Slider from "react-slick";
-import data from '../../Data/project2.json';
+import data from '../../Data/product2.json';
 import Image from "next/image";
 const ProjectDetails = () => {
 
