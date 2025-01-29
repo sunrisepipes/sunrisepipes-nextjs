@@ -1,24 +1,4 @@
 {
-  "/_not-found/page": "app/_not-found/page.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/(innerpage)/about/page": "app/(innerpage)/about/page.js",
   "/(home1)/page": "app/(home1)/page.js",
-  "/(innerpage)/blog-left-sidebar/page": "app/(innerpage)/blog-left-sidebar/page.js",
-  "/(innerpage)/blog-sidebar/page": "app/(innerpage)/blog-sidebar/page.js",
-  "/(innerpage)/blog/blog-details/page": "app/(innerpage)/blog/blog-details/page.js",
-  "/(innerpage)/contact/page": "app/(innerpage)/contact/page.js",
-  "/(innerpage)/pricing/page": "app/(innerpage)/pricing/page.js",
-  "/(innerpage)/blog/page": "app/(innerpage)/blog/page.js",
-  "/(innerpage)/faq/page": "app/(innerpage)/faq/page.js",
-  "/(innerpage)/product/hdpe-pipes/page": "app/(innerpage)/product/hdpe-pipes/page.js",
-  "/(innerpage)/product/mdpe-pipes/page": "app/(innerpage)/product/mdpe-pipes/page.js",
-  "/(innerpage)/product/mini-sprinkler-system/page": "app/(innerpage)/product/mini-sprinkler-system/page.js",
-  "/(innerpage)/product/page": "app/(innerpage)/product/page.js",
-  "/(innerpage)/product/product-details/page": "app/(innerpage)/product/product-details/page.js",
-  "/(innerpage)/product/sprinkler-irrigation-system/page": "app/(innerpage)/product/sprinkler-irrigation-system/page.js",
-  "/(innerpage)/project2/page": "app/(innerpage)/project2/page.js",
-  "/(innerpage)/team/page": "app/(innerpage)/team/page.js",
-  "/(innerpage)/team/team-details/page": "app/(innerpage)/team/team-details/page.js",
-  "/home3/page": "app/home3/page.js",
-  "/home2/page": "app/home2/page.js"
+  "/favicon.ico/route": "app/favicon.ico/route.js"
 }
