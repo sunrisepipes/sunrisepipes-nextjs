@@ -84,14 +84,89 @@ var __TURBOPACK__imported__module__$5b$next$5d2f$internal$2f$font$2f$google$2f$n
 const metadata = {
     title: {
         absolute: '',
-        default: 'SunrisePipes.in',
-        template: '%s | SunrisePipes.in'
+        default: 'Sunrise Pipes - HDPE & MDPE Pipes Manufacturer',
+        template: '%s | Sunrise Pipes'
     },
-    description: 'SunrisePipes.in',
+    description: 'Leading manufacturer of HDPE pipes, MDPE pipes, sprinkler systems, and pipe accessories. High-quality, durable, and reliable piping solutions for various industries.',
+    keywords: 'HDPE pipes, MDPE pipes, plastic pipes, sprinkler systems, irrigation pipes, water supply pipes, durable pipes, industrial pipes, agriculture pipes',
     openGraph: {
-        title: 'SunrisePipes.in',
-        description: 'SunrisePipes.in'
-    }
+        title: 'Sunrise Pipes - Quality HDPE & MDPE Pipes Manufacturer',
+        description: 'Sunrise Pipes specializes in high-quality HDPE & MDPE pipes, sprinkler systems, and pipe accessories. Trusted by industries and farmers for reliable water solutions.',
+        type: 'website',
+        url: 'https://sunrisepipes.in',
+        site_name: 'Sunrise Pipes',
+        images: [
+            {
+                url: '/og-image.jpg',
+                width: 1200,
+                height: 630,
+                alt: 'Sunrise Pipes - HDPE & MDPE Pipes Manufacturer'
+            }
+        ]
+    },
+    twitter: {
+        card: 'summary_large_image',
+        site: '@SunrisePipes',
+        title: 'Sunrise Pipes - HDPE & MDPE Pipes Manufacturer',
+        description: 'Premium HDPE and MDPE pipes for water supply, irrigation, and industrial applications. Durable, reliable, and sustainable piping solutions.',
+        images: [
+            '/twitter-image.jpg'
+        ]
+    },
+    facebook: {
+        app_id: 'YOUR_FACEBOOK_APP_ID'
+    },
+    additionalMeta: [
+        {
+            property: 'og:url',
+            content: 'https://sunrisepipes.in'
+        },
+        {
+            property: 'og:type',
+            content: 'website'
+        },
+        {
+            property: 'og:title',
+            content: 'Sunrise Pipes - HDPE & MDPE Pipes Manufacturer'
+        },
+        {
+            property: 'og:description',
+            content: 'Premium HDPE and MDPE pipes for water supply, irrigation, and industrial applications.'
+        },
+        {
+            property: 'og:image',
+            content: '/og-image.jpg'
+        },
+        {
+            property: 'og:image:width',
+            content: '1200'
+        },
+        {
+            property: 'og:image:height',
+            content: '630'
+        },
+        {
+            property: 'og:site_name',
+            content: 'Sunrise Pipes'
+        },
+        {
+            property: 'og:locale',
+            content: 'en_US'
+        },
+        {
+            property: 'og:updated_time',
+            content: new Date().toISOString()
+        },
+        // Instagram and Facebook-specific meta tags
+        {
+            property: 'og:profile',
+            content: 'https://www.instagram.com/dortex_ai/'
+        },
+        {
+            property: 'article:author',
+            content: 'https://www.facebook.com/profile.php?id=61561315643620'
+        }
+    ]
 };
 function RootLayout({ children }) {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("html", {
@@ -104,7 +179,7 @@ function RootLayout({ children }) {
                         content: "Themeservices"
                     }, void 0, false, {
                         fileName: "[project]/src/app/layout.js",
-                        lineNumber: 35,
+                        lineNumber: 73,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("link", {
@@ -113,13 +188,13 @@ function RootLayout({ children }) {
                         sizes: "any"
                     }, void 0, false, {
                         fileName: "[project]/src/app/layout.js",
-                        lineNumber: 36,
+                        lineNumber: 74,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/layout.js",
-                lineNumber: 34,
+                lineNumber: 72,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("body", {
@@ -127,13 +202,13 @@ function RootLayout({ children }) {
                 children: children
             }, void 0, false, {
                 fileName: "[project]/src/app/layout.js",
-                lineNumber: 38,
+                lineNumber: 76,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/layout.js",
-        lineNumber: 33,
+        lineNumber: 71,
         columnNumber: 5
     }, this);
 }
