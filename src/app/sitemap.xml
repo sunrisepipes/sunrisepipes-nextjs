@@ -6,12 +6,22 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://sunrisepipes.in/faq</loc>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://sunrisepipes.in/about</loc>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://sunrisepipes.in/products</loc>
+    <loc>https://sunrisepipes.in/team</loc>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://sunrisepipes.in/product</loc>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
   </url>

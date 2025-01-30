@@ -9065,10 +9065,10 @@ input.main-search-input::placeholder {
   width: 100%;
 }
 .project-card.style1 .project-content {
-  opacity: 0;
-  visibility: hidden;
+  opacity: 1;
+  visibility: visible;
   position: absolute;
-  bottom: -40px;
+  bottom: 40px;
   left: 40px;
   right: 40px;
   padding: 25px;

@@ -1896,7 +1896,7 @@ const page = ()=>{
                 title: "Revolutionizing Piping Solutions for a <span>Sustainable Future<span/>",
                 content: "Explore our high-quality HDPE Pipes, Sprinkler Systems, and Accessories, designed to enhance efficiency, durability, and performance for agriculture, infrastructure, and beyond.",
                 btnname: "Explore Our Products",
-                btnurl: "/project",
+                btnurl: "/product",
                 btnname2: "Learn More",
                 btnurl2: "/about",
                 img1: "/assets/images/hero/01.png",

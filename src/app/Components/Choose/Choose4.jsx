@@ -15,12 +15,12 @@ const Choose4 = () => {
                                     The Visionaries Behind Our Success <Image src="/assets/images/icon/fireIcon.svg" alt="img" width={16} height={17}   />
                                     </div>
                                     <h2 className="title wow fadeInUp" data-wow-delay=".4s">Meet Our Team </h2>
-                                    <p className="text1 wow fadeInUp" data-wow-delay=".6s">At Sunrise Pipe Private Limited, our team of directors brings together decades of experience, innovation, and leadership to drive our mission forward. With a shared commitment to excellence and sustainability, they ensure we deliver the highest quality products and services to our customers.</p>
-                                    <p className="text2 wow fadeInUp" data-wow-delay=".8s">There are many variations of
+                                    <p className="text1 wow fadeInUp" data-wow-delay=".6s">At Sunrise Pipes Private Limited, our team of directors brings together decades of experience, innovation, and leadership to drive our mission forward. With a shared commitment to excellence and sustainability, they ensure we deliver the highest quality products and services to our customers.</p>
+                                    {/* <p className="text2 wow fadeInUp" data-wow-delay=".8s">There are many variations of
                                         passages of Lorem Ipsum available, but the majority have suffered alteration in
-                                        some form,</p>
+                                        some form,</p> */}
                                 </div>
-                                <Link className="theme-btn rounded-5 wow fadeInUp" data-wow-delay=".4s" href="/about">View
+                                <Link className="theme-btn rounded-5 wow fadeInUp" data-wow-delay=".4s" href="/product">View
                                     All Project
                                     <svg className="ms-2" xmlns="http://www.w3.org/2000/svg" width="16" height="16"
                                         viewBox="0 0 16 16" fill="none">
@@ -66,14 +66,14 @@ const Choose4 = () => {
                                 <div className="thumb2">
                                     <Image src="/assets/images/wcu/wcuThumb3_2.png" alt="img" width={558} height={340}   />
                                 </div>
-                                <div className="thumb-box float-bob-y wow fadeInUp" data-wow-delay=".4s">
-                                    <h5>Traffic Growth</h5>
-                                    <p className="text">Total traffic growth of 45%</p>
+                                <div className="thumb-box float-bob-x wow fadeInUp" data-wow-delay=".4s">
+                                    <p className="text">in plastic</p>
+                                    <h5>manufacturing</h5>
                                     <div className="shape-box">
                                         <Image src="/assets/images/shape/wcuThumbShape3_1.png" alt="img" width={128} height={128}   />
                                         <div className="shape-content">
-                                            <h6>Transaction</h6>
-                                            <h3>86%</h3>
+                                            <h6>since</h6>
+                                            <h3>1992.</h3>
                                         </div>
                                     </div>
                                 </div>
