@@ -159,9 +159,9 @@ const Footer = () => {
                             
                         </p>
                         <ul className="social-links" data-wow-delay=".5s">
-                            <li> <a href="#"><i className="bi bi-facebook"></i></a> </li>
-                            <li> <a href="#"><i className="bi bi-linkedin"></i></a> </li>
-                            <li> <a href="#"><i className="bi bi-instagram"></i></a> </li>
+                            <li> <a target="_blank" href="https://www.facebook.com/"><i className="bi bi-facebook"></i></a> </li>
+                            <li> <a target="_blank" href="https://x.com/sunrisepipes"><i className="bi bi-twitter"></i></a> </li>
+                            <li> <a target="_blank" href="https://www.instagram.com/sunrisepipes.in/"><i className="bi bi-instagram"></i></a> </li>
                         </ul>
                     </div>
                 </div>

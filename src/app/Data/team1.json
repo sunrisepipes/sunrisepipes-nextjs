@@ -1,29 +1,12 @@
 [
+  
   {
-    "img": "/assets/images/team/teamThumb1_1.jpg",  
-    "title": "Harsh Kumar",
-    "desc": "Founder",
-    "facebook": "#",
-    "twitter": "#",
-    "linkedin": "#",
-    "instagram": "#"
-  },
-  {
-    "img": "/assets/images/team/teamThumb1_2.jpg",  
-    "title": "Suresh Kumar",
-    "desc": "Founder",
-    "facebook": "#",
-    "twitter": "#",
-    "linkedin": "#",
-    "instagram": "#"
-  },
-  {
-    "img": "/assets/images/team/teamThumb1_3.jpg",  
+    "img": "/assets/images/team/mr.jatin.png",  
     "title": "Jatin Arneja",
     "desc": "Founder",
-    "facebook": "#",
-    "twitter": "#",
+    "facebook": "https://www.facebook.com/checkpoint/1501092823525282/?next=https%3A%2F%2Fwww.facebook.com%2F",
+    "twitter": "https://x.com/sunrisepipes",
     "linkedin": "#",
-    "instagram": "#"
+    "instagram": "https://www.instagram.com/sunrisepipes.in/"
   }
 ]
