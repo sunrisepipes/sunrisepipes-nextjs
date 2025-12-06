@@ -18,10 +18,10 @@ const BlogDetails = () => {
             <div className="col-12 col-lg-12">
               <div className="blog-post-details">
                 <div className="single-blog-post">
-                  <div className="post-featured-thumb" data-background="/assets/images/blog/blogCardThumb3_1.png">
-                  </div>
+                  {/* <div className="post-featured-thumb" data-background="/assets/images/blog/blogCardThumb3_1.png">
+                  </div> */}
                   <div className="post-content">
-                    <ul className="post-list d-flex align-items-center wow fadeInUp" data-wow-delay=".2s">
+                    {/* <ul className="post-list d-flex align-items-center wow fadeInUp" data-wow-delay=".2s">
                       <li>
                         <i className="bi bi-person"></i>
                         By Admin
@@ -34,7 +34,7 @@ const BlogDetails = () => {
                         <Image src="/assets/images/icon/tagIcon.png" alt="img" width={20} height={20} />
                         IT Services
                       </li>
-                    </ul>
+                    </ul> */}
                     <h3 className="wow fadeInUp" data-wow-delay=".4s">Mini Sprinkler Irrigation System – Efficient Watering Solutions by Sunrise Pipes</h3>
                     <p className="mb-3 wow fadeInUp" data-wow-delay=".6s">
                       Modern farming in India demands irrigation systems that save water, improve crop growth, and reduce labor. One of the most effective methods for achieving this is the mini sprinkler irrigation system. Designed for uniform and gentle water distribution, mini sprinklers help farmers irrigate crops efficiently while reducing water wastage. Sunrise Pipes offers high-quality mini sprinkler irrigation systems that support better farming and long-lasting performance.

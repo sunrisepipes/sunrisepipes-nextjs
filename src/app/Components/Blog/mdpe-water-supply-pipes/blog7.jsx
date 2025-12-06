@@ -18,10 +18,10 @@ const BlogDetails = () => {
             <div className="col-12 col-lg-12">
               <div className="blog-post-details">
                 <div className="single-blog-post">
-                  <div className="post-featured-thumb" data-background="/assets/images/blog/blogCardThumb3_1.png">
-                  </div>
+                  {/* <div className="post-featured-thumb" data-background="/assets/images/blog/blogCardThumb3_1.png">
+                  </div> */}
                   <div className="post-content">
-                    <ul className="post-list d-flex align-items-center wow fadeInUp" data-wow-delay=".2s">
+                    {/* <ul className="post-list d-flex align-items-center wow fadeInUp" data-wow-delay=".2s">
                       <li>
                         <i className="bi bi-person"></i>
                         By Admin
@@ -34,7 +34,7 @@ const BlogDetails = () => {
                         <Image src="/assets/images/icon/tagIcon.png" alt="img" width={20} height={20} />
                         IT Services
                       </li>
-                    </ul>
+                    </ul> */}
                     <h3 className="wow fadeInUp" data-wow-delay=".4s">MDPE Water Supply Pipes – Reliable, Safe & Long-Lasting Solutions by Sunrise Pipes</h3>
                     <p className="mb-3 wow fadeInUp" data-wow-delay=".6s">
                       In India’s expanding residential, industrial, and agricultural sectors, the demand for safe and durable water supply systems is growing rapidly. Among the many options available, MDPE (Medium-Density Polyethylene) water supply pipes have become one of the most trusted choices for modern water distribution. Known for their strength, flexibility, and leak-proof performance, MDPE pipes ensure clean and uninterrupted water flow for various applications. Sunrise Pipes is a leading name in this category, offering high-quality MDPE water supply pipes designed for long-term reliability.

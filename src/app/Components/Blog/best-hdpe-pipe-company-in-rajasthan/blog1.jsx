@@ -18,10 +18,10 @@ const BlogDetails = () => {
             <div className="col-12 col-lg-12">
               <div className="blog-post-details">
                 <div className="single-blog-post">
-                  <div className="post-featured-thumb" data-background="/assets/images/blog/blogCardThumb3_1.png">
-                  </div>
+                  {/* <div className="post-featured-thumb" data-background="/assets/images/blog/blogCardThumb3_1.png">
+                  </div> */}
                   <div className="post-content">
-                    <ul className="post-list d-flex align-items-center wow fadeInUp" data-wow-delay=".2s">
+                    {/* <ul className="post-list d-flex align-items-center wow fadeInUp" data-wow-delay=".2s">
                       <li>
                         <i className="bi bi-person"></i>
                         By Admin
@@ -34,7 +34,7 @@ const BlogDetails = () => {
                         <Image src="/assets/images/icon/tagIcon.png" alt="img" width={20} height={20} />
                         IT Services
                       </li>
-                    </ul>
+                    </ul> */}
                     <h3 className="wow fadeInUp" data-wow-delay=".4s">Best HDPE Pipe Company in Rajasthan – Sunrise Pipes Leading the Way in Quality & Durability</h3>
                     <p className="mb-3 wow fadeInUp" data-wow-delay=".6s">
                       Rajasthan’s growing agricultural, industrial, and rural development sectors demand strong, reliable, and long-lasting piping solutions. With harsh climate conditions, high temperatures, and challenging soil types, the state needs pipelines that can perform without corrosion, leakage, or frequent maintenance. This is where Sunrise Pipes has earned its reputation as one of the best HDPE pipe companies in Rajasthan, offering high-performance pipes designed to meet the region’s tough requirements.

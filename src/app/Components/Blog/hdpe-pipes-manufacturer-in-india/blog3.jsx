@@ -18,10 +18,10 @@ const BlogDetails = () => {
             <div className="col-12 col-lg-12">
               <div className="blog-post-details">
                 <div className="single-blog-post">
-                  <div className="post-featured-thumb" data-background="/assets/images/blog/blogCardThumb3_1.png">
-                  </div>
+                  {/* <div className="post-featured-thumb" data-background="/assets/images/blog/blogCardThumb3_1.png">
+                  </div> */}
                   <div className="post-content">
-                    <ul className="post-list d-flex align-items-center wow fadeInUp" data-wow-delay=".2s">
+                    {/* <ul className="post-list d-flex align-items-center wow fadeInUp" data-wow-delay=".2s">
                       <li>
                         <i className="bi bi-person"></i>
                         By Admin
@@ -34,7 +34,7 @@ const BlogDetails = () => {
                         <Image src="/assets/images/icon/tagIcon.png" alt="img" width={20} height={20} />
                         IT Services
                       </li>
-                    </ul>
+                    </ul> */}
                     <h3 className="wow fadeInUp" data-wow-delay=".4s">HDPE Pipes Manufacturer in India – Why Sunrise Pipes is a Trusted Name in the Industry</h3>
                     <p className="mb-3 wow fadeInUp" data-wow-delay=".6s">
                       In India’s fast-growing infrastructure and agricultural sectors, the need for strong, reliable, and cost-effective piping solutions is increasing rapidly. Among all available options, HDPE pipes have become the top choice for water supply, irrigation, sewage systems, and industrial fluid transport. If you are looking for a dependable HDPE pipes manufacturer in India, Sunrise Pipes stands out with its commitment to quality, innovation, and long-lasting performance.

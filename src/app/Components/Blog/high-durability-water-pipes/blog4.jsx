@@ -18,10 +18,10 @@ const BlogDetails = () => {
             <div className="col-12 col-lg-12">
               <div className="blog-post-details">
                 <div className="single-blog-post">
-                  <div className="post-featured-thumb" data-background="/assets/images/blog/blogCardThumb3_1.png">
-                  </div>
+                  {/* <div className="post-featured-thumb" data-background="/assets/images/blog/blogCardThumb3_1.png">
+                  </div> */}
                   <div className="post-content">
-                    <ul className="post-list d-flex align-items-center wow fadeInUp" data-wow-delay=".2s">
+                    {/* <ul className="post-list d-flex align-items-center wow fadeInUp" data-wow-delay=".2s">
                       <li>
                         <i className="bi bi-person"></i>
                         By Admin
@@ -34,7 +34,7 @@ const BlogDetails = () => {
                         <Image src="/assets/images/icon/tagIcon.png" alt="img" width={20} height={20} />
                         IT Services
                       </li>
-                    </ul>
+                    </ul> */}
                     <h3 className="wow fadeInUp" data-wow-delay=".4s">High Durability Water Pipes – Long-Lasting Performance by Sunrise Pipes</h3>
                     <p className="mb-3 wow fadeInUp" data-wow-delay=".6s">
                       In India, where water supply systems are exposed to varying temperatures, soil conditions, and high usage, choosing the right pipeline is essential for long-term performance. This is why high durability water pipes have become a preferred choice for households, industries, agriculture, and government water projects. Sunrise Pipes is one of the leading manufacturers offering strong, reliable, and long-lasting water pipes designed to handle tough conditions efficiently.

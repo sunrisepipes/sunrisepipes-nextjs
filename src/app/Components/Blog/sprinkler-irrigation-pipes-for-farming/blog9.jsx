@@ -18,10 +18,10 @@ const BlogDetails = () => {
             <div className="col-12 col-lg-12">
               <div className="blog-post-details">
                 <div className="single-blog-post">
-                  <div className="post-featured-thumb" data-background="/assets/images/blog/blogCardThumb3_1.png">
-                  </div>
+                  {/* <div className="post-featured-thumb" data-background="/assets/images/blog/blogCardThumb3_1.png">
+                  </div> */}
                   <div className="post-content">
-                    <ul className="post-list d-flex align-items-center wow fadeInUp" data-wow-delay=".2s">
+                    {/* <ul className="post-list d-flex align-items-center wow fadeInUp" data-wow-delay=".2s">
                       <li>
                         <i className="bi bi-person"></i>
                         By Admin
@@ -34,7 +34,7 @@ const BlogDetails = () => {
                         <Image src="/assets/images/icon/tagIcon.png" alt="img" width={20} height={20} />
                         IT Services
                       </li>
-                    </ul>
+                    </ul> */}
                     <h3 className="wow fadeInUp" data-wow-delay=".4s">Sprinkler Irrigation Pipes for Farming – Efficient Watering Solutions by Sunrises Pipes</h3>
                     <p className="mb-3 wow fadeInUp" data-wow-delay=".6s">
                       Sprinkler irrigation has become one of the most effective and water-saving methods for modern farming in India. It distributes water uniformly across fields, helping farmers improve crop health while reducing wastage. To ensure smooth operation, high-quality sprinkler irrigation pipes are essential, and Sunrises Pipes is a trusted name in delivering durable, efficient, and long-lasting solutions.

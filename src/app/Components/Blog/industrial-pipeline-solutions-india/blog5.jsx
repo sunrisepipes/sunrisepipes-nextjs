@@ -18,10 +18,10 @@ const BlogDetails = () => {
             <div className="col-12 col-lg-12">
               <div className="blog-post-details">
                 <div className="single-blog-post">
-                  <div className="post-featured-thumb" data-background="/assets/images/blog/blogCardThumb3_1.png">
-                  </div>
+                  {/* <div className="post-featured-thumb" data-background="/assets/images/blog/blogCardThumb3_1.png">
+                  </div> */}
                   <div className="post-content">
-                    <ul className="post-list d-flex align-items-center wow fadeInUp" data-wow-delay=".2s">
+                    {/* <ul className="post-list d-flex align-items-center wow fadeInUp" data-wow-delay=".2s">
                       <li>
                         <i className="bi bi-person"></i>
                         By Admin
@@ -34,7 +34,7 @@ const BlogDetails = () => {
                         <Image src="/assets/images/icon/tagIcon.png" alt="img" width={20} height={20} />
                         IT Services
                       </li>
-                    </ul>
+                    </ul> */}
                     <h3 className="wow fadeInUp" data-wow-delay=".4s">Industrial Pipeline Solutions in India – Sunrise Pipes Delivering Strength, Safety & Reliability</h3>
                     <p className="mb-3 wow fadeInUp" data-wow-delay=".6s">
                       India’s industrial sector is expanding rapidly, with rising demand from manufacturing, chemical plants, refineries, construction, mining, and water management projects. To support this growth, industries need strong, reliable, and long-lasting pipeline systems that can handle high pressure, harsh environments, and continuous operations. This is where Sunrise Pipes plays a key role by offering advanced industrial pipeline solutions in India designed for performance, safety, and durability.
