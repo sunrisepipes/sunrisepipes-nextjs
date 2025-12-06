@@ -1,4 +1,4 @@
-// File: D:\localProj\Freelancing\Sunrise Pipe\website\sunrisepipes-nextjs\src\app\layout.js
+// File: C:\Users\sachi\OneDrive\Desktop\fiveps digital\sunrise pipes website\sunrisepipes-nextjs\src\app\layout.js
 import * as entry from '../../../src/app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

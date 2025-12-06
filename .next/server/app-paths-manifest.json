@@ -1,7 +1,16 @@
 {
-  "/(home1)/page": "app/(home1)/page.js",
+  "/(innerpage)/blog/page": "app/(innerpage)/blog/page.js",
   "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/_not-found/page": "app/_not-found/page.js",
-  "/(innerpage)/about/page": "app/(innerpage)/about/page.js",
-  "/(innerpage)/team/page": "app/(innerpage)/team/page.js"
+  "/(innerpage)/blog/hdpe-pipes-manufacturer-in-india/page": "app/(innerpage)/blog/hdpe-pipes-manufacturer-in-india/page.js",
+  "/(innerpage)/blog/best-hdpe-pipe-company-in-rajasthan/page": "app/(innerpage)/blog/best-hdpe-pipe-company-in-rajasthan/page.js",
+  "/(innerpage)/blog/mdpe-water-supply-pipes/page": "app/(innerpage)/blog/mdpe-water-supply-pipes/page.js",
+  "/(innerpage)/blog/hdpe-pipes-for-agriculture/page": "app/(innerpage)/blog/hdpe-pipes-for-agriculture/page.js",
+  "/(innerpage)/blog/industrial-pipeline-solutions-india/page": "app/(innerpage)/blog/industrial-pipeline-solutions-india/page.js",
+  "/(innerpage)/blog/high-durability-water-pipes/page": "app/(innerpage)/blog/high-durability-water-pipes/page.js",
+  "/(innerpage)/blog/mini-sprinkler-irrigation-system/page": "app/(innerpage)/blog/mini-sprinkler-irrigation-system/page.js",
+  "/(innerpage)/blog/mdpe-gas-pipeline-pipes/page": "app/(innerpage)/blog/mdpe-gas-pipeline-pipes/page.js",
+  "/(innerpage)/blog/sprinkler-irrigation-pipes-for-farming/page": "app/(innerpage)/blog/sprinkler-irrigation-pipes-for-farming/page.js",
+  "/(innerpage)/product/mini-sprinkler-system/page": "app/(innerpage)/product/mini-sprinkler-system/page.js",
+  "/(innerpage)/product/page": "app/(innerpage)/product/page.js",
+  "/(home1)/page": "app/(home1)/page.js"
 }
